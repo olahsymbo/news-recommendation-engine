@@ -1,4 +1,6 @@
 .idea/
+.DS_Store/
+
 ## Developer defined
 
 migrations/db_dumps
@@ -145,4 +147,4 @@ recomm_synthetic.py
 /collaborative_filtering/.DS_Store
 /helpers/.DS_Store
 /helpers/helper.sh
-configura.py.DS_Store
+configura.py
