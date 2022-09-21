@@ -148,3 +148,4 @@ recomm_synthetic.py
 /helpers/.DS_Store
 /helpers/helper.sh
 configura.py
+requirements.txt
